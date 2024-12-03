@@ -15,7 +15,7 @@ jogo há uma bola que, ao apertar o botão iniciar, entra em movimentação. O j
 ## Deploy ##
 <br>
 <br>
-O deploy do aplicativo foi realizado através do Vercel. Para acessá-lo basta clicar no <a href="pingpong-one-sigma.vercel.app" target="_blank"> Link </a>
+O deploy do aplicativo foi realizado através do Vercel. Para acessá-lo basta clicar no <a href="https://pingpong-one-sigma.vercel.app/" target="_blank"> Link </a>
 <br>
 
 <img src="https://i.postimg.cc/43jbMHTg/print.png">
