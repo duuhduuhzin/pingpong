@@ -1,0 +1,45 @@
+canvas 
+{
+    border: 3px solid white;
+    border-radius: 5px;
+    background-color: black;
+    margin-bottom: 0px;
+}
+header
+{
+    margin-top: 0.4%;
+}
+body{
+    margin: 0 auto;
+    background-color: black;
+    text-align: center;
+    overflow: hidden;
+    
+}
+body p{
+    background-color: #333;
+	color: #fff;
+	padding: 6px;
+
+    font-family: "Jersey 10", sans-serif;
+    font-size: 35px;
+}
+body .gradedojogo
+{
+    background-color: black;
+
+}
+footer{
+    background-color: #333;
+	color: #fff;
+	padding: 8px;
+	text-align: center;
+	margin-top: 35px;
+    font-family: "Montserrat", sans-serif;
+
+}
+footer span{
+    font-size: 1.2em;
+    font-weight: 250 ;
+}
+
